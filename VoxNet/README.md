@@ -1,7 +1,7 @@
 Here is how we use `binvox` in our local machine. 
 
  
-1.   Download the `ModelNet10.zip` to our local and unzip it.
+1.   Download the `ModelNet10.zip` to our local and unzip it. (http://3dvision.princeton.edu/projects/2014/3DShapeNets/ModelNet10.zip)
 2.   Download the `binvox.exe` to our local.
 3.   Open `cmd` and use `cd` to get into the ModelNet10 folder 
  
