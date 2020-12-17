@@ -1,0 +1,14 @@
+{
+  "name": "265a8f2133e603fc",
+  "main": "265a8f2133e603fc@115.js",
+  "version": "115.0.0",
+  "homepage": "https://observablehq.com/d/265a8f2133e603fc",
+  "author": {
+    "name": "zilixie",
+    "url": "https://observablehq.com/@zilixie"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
